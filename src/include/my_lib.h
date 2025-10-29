@@ -15,5 +15,6 @@ extern "C" {
 
 // C++ ‚ÅC‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ğg‚¤‚Æ‚«‚Ì‚¨‚Ü‚¶‚È‚¢
 #ifdef __cplusplus
-} // extern "C"
+}
+// extern "C"
 #endif
